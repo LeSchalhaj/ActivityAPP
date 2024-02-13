@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "314420574830",
+    "firebase_url": "https://activityproject2001-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "activityproject2001",
+    "storage_bucket": "activityproject2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314420574830:android:c3ff8057e9db82adce447f",
+        "android_client_info": {
+          "package_name": "com.example.activityman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLquzsAmphNSPDkXnk6ynip51JiatWvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
